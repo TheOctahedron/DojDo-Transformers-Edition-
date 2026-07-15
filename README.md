@@ -75,5 +75,5 @@ pip install transformers
 ```
 Next:
 ```bash
-python dojdo.py
+python dojdo_main.py
 ```
